@@ -1,0 +1,30 @@
+.lunchmenu-tile, .setmenu-tile {
+  text-align: center;
+  padding: 3vw;
+  
+}
+
+.lunchmenu-image, .setmenu-image {
+  width: 40vw;
+  height: auto;
+}
+
+.lunchmenu-under, .setmenu-under {
+  width: 40vw;
+  flex-wrap: wrap;
+  padding-top: 1vw;
+}
+
+.lunchmenu-name, .setmenu-name {
+  font-size: 18px;
+  margin-top: 0;
+}
+.set-menu, .lunch-menu {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  width: 92vw;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
